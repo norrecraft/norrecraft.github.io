@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Nørrecraft</title>
+    <link>/</link>
+    <description>Recent content in Home on Nørrecraft</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Boost Approach</title>
+      <link>/learn_more/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/learn_more/</guid>
+      <description>Value proposition Work closely with teams to help them grow a culture and practices which allow them to develop quality products
+Promess We foster change in culture and practices, bringing quality at the center of the product, with both excellence and control in mind.
+ By mastering your code and deliveries,
+you’ll control your costs.
+ Coaching approach  Shu-Ha-Ri Active pedagogy, learning by doing Craft Manifesto: raising the level Passing on know-how / Companionship: forster autonomy Mentoring  Organisation  product team (pizza team size) technical coach (Craft or DevOps) in total immersion functional scope defined by the team’s backlog  </description>
+    </item>
+    
+  </channel>
+</rss>
